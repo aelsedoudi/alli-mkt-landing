@@ -1,0 +1,44 @@
+[
+  {
+    "name": "blog",
+    "path": "/blog",
+    "component": "/Users/aelsedoudi/OneDrive - Alliance Sales and Marketing/GitHub/Alli-MKT-Landing/app/pages/blog/index.vue",
+    "chunkName": "pages/blog/index",
+    "_name": "_965bba90"
+  },
+  {
+    "name": "thank-you",
+    "path": "/thank-you",
+    "component": "/Users/aelsedoudi/OneDrive - Alliance Sales and Marketing/GitHub/Alli-MKT-Landing/app/pages/thank-you/index.vue",
+    "chunkName": "pages/thank-you/index",
+    "_name": "_a8700588"
+  },
+  {
+    "name": "blog-page-page",
+    "path": "/blog/page/:page?",
+    "component": "/Users/aelsedoudi/OneDrive - Alliance Sales and Marketing/GitHub/Alli-MKT-Landing/app/pages/blog/page/_page.vue",
+    "chunkName": "pages/blog/page/_page",
+    "_name": "_14a0e7f8"
+  },
+  {
+    "name": "blog-slug",
+    "path": "/blog/:slug",
+    "component": "/Users/aelsedoudi/OneDrive - Alliance Sales and Marketing/GitHub/Alli-MKT-Landing/app/pages/blog/_slug.vue",
+    "chunkName": "pages/blog/_slug",
+    "_name": "_99c8fd20"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/aelsedoudi/OneDrive - Alliance Sales and Marketing/GitHub/Alli-MKT-Landing/app/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_7cbbd9e2"
+  },
+  {
+    "name": "page",
+    "path": "/:page",
+    "component": "/Users/aelsedoudi/OneDrive - Alliance Sales and Marketing/GitHub/Alli-MKT-Landing/app/pages/_page.vue",
+    "chunkName": "pages/_page",
+    "_name": "_2a6357ab"
+  }
+]
